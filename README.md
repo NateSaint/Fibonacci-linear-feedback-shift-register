@@ -1,6 +1,6 @@
 #### Fibonacci Linear Feedback Shift Register (LFSR)
 
-Implemented by: Nathen St. Germain
+Implemented by: Nathen St. Germain,
 Resources used: <https://en.wikipedia.org/wiki/Linear-feedback_shift_register>
 
 Fibonacci LFSR implemented in R for the purpose of random number generation. The functions included 
